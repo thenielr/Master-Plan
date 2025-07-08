@@ -14,7 +14,6 @@ To master automation, industrial control systems, and SCADA technologies — com
 
 | Folder       | Description                                                            |
 | ------------ | ---------------------------------------------------------------------- |
-| `Semesters/` | Notes and materials from university courses (currently Semester VI).   |
 | `Projects/`  | Personal and academic engineering projects, lab work, and experiments. |
 | `Courses/`   | Summaries and notes from online courses (e.g., Udemy, MIT OCW).        |
 | `Logs/`      | Daily learning logs using the Calendar plugin.                         |

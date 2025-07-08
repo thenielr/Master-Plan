@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "README"
             }
           }
         ],
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,8 +216,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "03bf7bf99f03068f",
+  "active": "05dee04e3026cca9",
   "lastOpenFiles": [
+    "Tasks.md",
     "CyberSec",
     "Instrumentation",
     "Electronics",
@@ -233,7 +234,6 @@
     "Logs/2025-07-07.md",
     "Projects/TCLab",
     "Roadmap/roadmap.md",
-    "Tasks.md",
     "Untitled Kanban.md",
     "Roadmap",
     "Courses",

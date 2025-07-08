@@ -197,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +216,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "03446f54009209e4",
+  "active": "03bf7bf99f03068f",
   "lastOpenFiles": [
     "CyberSec",
     "Instrumentation",

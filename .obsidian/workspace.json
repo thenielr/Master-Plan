@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-07-07.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-07"
+              "title": "README"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -190,12 +190,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "03446f54009209e4",
+  "active": "4a69fcc297cad41f",
   "lastOpenFiles": [
-    "README.md",
-    "Logs/2025-07-07.md",
-    "Logs/Untitled.md",
     "Dashboard.md",
-    "Untitled Kanban.md"
+    "Projects/TCLab/TIP31C.md",
+    "Projects/TCLab/ADS1115.md",
+    "Courses/IEEE/Electronics/I2C bus.md",
+    "README.md",
+    "Courses/IEEE/Electronics",
+    "Courses/IEEE",
+    "Logs/2025-07-07.md",
+    "Untitled",
+    "Projects/TCLab",
+    "Roadmap/roadmap.md",
+    "Tasks.md",
+    "Untitled Kanban.md",
+    "Roadmap",
+    "Courses",
+    "Semesters",
+    "Logs/Untitled.md"
   ]
 }

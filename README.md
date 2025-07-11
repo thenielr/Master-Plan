@@ -12,7 +12,7 @@ To master automation, industrial control systems, and SCADA technologies — com
 
 ## 🧩 Structure of This Vault
 
-| Folder       | Description                                                            |
+| ==Folder==       | ==Description==                                                            |
 | ------------ | ---------------------------------------------------------------------- |
 | `Projects/`  | Personal and academic engineering projects, lab work, and experiments. |
 | `Courses/`   | Summaries and notes from online courses (e.g., Udemy, MIT OCW).        |

@@ -1,0 +1,1 @@
+Stands for 'P' Proportional, 'Integral', 'Derivation'

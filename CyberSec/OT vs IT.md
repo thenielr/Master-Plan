@@ -1,0 +1,1 @@
+OT is for availability, IT goes more for data integrity.  

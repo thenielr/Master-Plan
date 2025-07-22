@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CyberSec/OT vs IT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "OT vs IT"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "CyberSec/OT vs IT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of OT vs IT"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -232,8 +232,11 @@
   },
   "active": "03bf7bf99f03068f",
   "lastOpenFiles": [
+    "CyberSec/Untitled 1.md",
+    "CyberSec/OT vs IT.md",
+    "README.md",
+    "Dashboard.md",
     "Idian Vault Review.md",
-    "Untitled.md",
     "Logs/2025-07-11.md",
     "Templates/Intrumentation/Microplate Washer Maintenance Log Template.md",
     "Logs/2025-07-10.md",
@@ -243,13 +246,11 @@
     "Roadmap/roadmap.md",
     "Logs/2025-07-07.md",
     "Templates/Intrumentation",
-    "README.md",
     "Tasks.md",
     "CyberSec",
     "Instrumentation",
     "Electronics",
     "Control Theory",
-    "Dashboard.md",
     "Projects/TCLab/TIP31C.md",
     "Courses/IEEE/Electronics/I2C bus.md",
     "Courses/IEEE/Electronics",

@@ -1,0 +1,1 @@
+Is the measure of Hydrogen ion activity. 'p' stands for potential. We use a potentiometric because there will be an amount of voltage runnig through the buffer and give a voltage according to the pH/

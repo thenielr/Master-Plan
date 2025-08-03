@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Theory/PID.md",
+                "file": "Instrumentation/Transmissor/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PID"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0209ee0a0b7e969a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EX"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,11 +244,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ec20823d9dad6221",
+  "active": "0209ee0a0b7e969a",
   "lastOpenFiles": [
-    "CyberSec/Steps for better protection 4.md",
-    "Control Theory/PID.md",
+    "Instrumentation/Transmissor/Untitled.md",
+    "EX.md",
+    "CyberSec/Industrial Networks/Fieldbus.md",
+    "Instrumentation/Transmissor",
     "CyberSec/OT vs IT.md",
+    "Instrumentation/Analytical Measurement/Ph Sensor.md",
+    "CyberSec/Industrial Networks",
+    "2025-07-24.md",
+    "Instrumentation/Analytical Measurement",
+    "Control Theory/PID.md",
+    "CyberSec/Steps for better protection 4.md",
     "CyberSec/Untitled 1.md",
     "README.md",
     "Dashboard.md",
@@ -257,10 +279,7 @@
     "Courses/IEEE/Electronics/I2C bus.md",
     "Courses/IEEE/Electronics",
     "Courses/IEEE",
-    "Projects/TCLab",
     "Untitled Kanban.md",
-    "Roadmap",
-    "Courses",
     "Logs/Untitled.md"
   ]
 }
